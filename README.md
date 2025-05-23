@@ -7,5 +7,5 @@ Uma simples software que possibilita gerenciar Tarefas de forma pratica, bem uti
 
 ## Prints 📸
 
-![Demonstração](TaskManager\imgs\prints.png)
+![Exemplo](TaskManager/imgs/prints.png)
 
